@@ -1,0 +1,9 @@
+*.o
+lab2
+lab2-go/lab2
+bin/
+.vscode/
+README.md
+run_example.sh
+control_examples/
+screenshots/
